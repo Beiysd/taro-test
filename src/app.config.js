@@ -17,8 +17,8 @@ export default {
       {
         pagePath: "pages/pageone/index",
         text: 'page1',
-        selectedIconPath: "",
-        iconPath: ""
+        selectedIconPath: "assets/img/selecthomes.png",
+        iconPath: "assets/img/homes.png"
       },
       {
         pagePath: "pages/pagetwo/index",
